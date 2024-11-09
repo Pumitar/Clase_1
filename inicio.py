@@ -42,6 +42,7 @@ def create_obstacle():
     return new_tubo
 
 
+
 def draw():
     global count
     #Actores
