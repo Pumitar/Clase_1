@@ -4,7 +4,6 @@ import pgzrun
 import random
 import time
 
-print("hola")
 WIDTH = 288 # Ancho de la ventana
 HEIGHT = 512 # Altura de la ventana
 
